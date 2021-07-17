@@ -1,5 +1,6 @@
 # Exercise-Tracker-Application-Backend
-Created with Node JS,Express JS and MONGO DB
+A react app customized using Tailwind CSS for keeping track of daily exercise activities.
+Backend of the application is created with express JS and mongoDB atlas is used as database for storing user and activity details.
+Users can create,edit and delete their exercise logs.
 
 
-You will require a .env file with contents DB_URI = (Mongo DB URI to connect with mongo DB database)
